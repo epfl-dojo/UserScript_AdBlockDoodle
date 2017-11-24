@@ -7,7 +7,9 @@ Petit test:
 https://doodle.com/poll/w2v7ttxyzzv2824d
 
 # Utilisation
-Simplement afficher le fichier *AdBlockDoodle.user.js* en mode RAW dans le browser, le gestionnaire de UserScripts l'installera automatiquement
+Simplement afficher le fichier *AdBlockDoodle.user.js* en mode RAW dans le browser, le gestionnaire de UserScripts l'installera automatiquement:
+
+https://github.com/epfl-dojo/UserScript_AdBlockDoodle/raw/master/AdBlockDoodle.user.js
 
 # Remarque:
 Il faut installer un gestionnaire de UserScripts sur son browser du style:
